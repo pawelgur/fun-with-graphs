@@ -1,0 +1,15 @@
+{
+  "name": "fun-with-graphs",
+  "version": "1.0.0",
+  "description": "Experimenting with graph algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Gurecki",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0"
+  }
+}
